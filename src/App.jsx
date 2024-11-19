@@ -1,12 +1,11 @@
 import React from 'react';
-import Home from './Pages/Home/Home';
-
 
 function App() {
   return (
-    <div className='App'>
-      <Home/>
-     
+    <div style={{ textAlign: 'center', marginTop: '50px' }}>
+      <h1>React + Vite + GitHub Pages</h1>
+      <p>Your deployment is successful!</p>
+      <p>Made with 💖 using React and Vite</p>
     </div>
   );
 }
