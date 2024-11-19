@@ -1,0 +1,24 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@400;500;700&display=swap');
+
+:root {
+    --font-base: 'lexend', san-serif;;
+    --font-second-base: 'Inter', san-serif;
+    --bg_color: #111;
+    --primary_color: #ffffff;
+    --secondary-color: #e50914;
+}
+
+
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(0,0,0);
+}
